@@ -10,6 +10,10 @@ has not yet been a stable, usable release suitable for the
 public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![Travis build
+status](https://travis-ci.org/ernestguevarra/rOpenEpi.svg?branch=master)](https://travis-ci.org/ernestguevarra/rOpenEpi)
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/ernestguevarra/rOpenEpi?branch=master&svg=true)](https://ci.appveyor.com/project/ernestguevarra/rOpenEpi)
 <!-- badges: end -->
 
 This package is the R port for the free and open source software
