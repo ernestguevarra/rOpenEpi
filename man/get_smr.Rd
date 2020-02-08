@@ -2,13 +2,9 @@
 % Please edit documentation in R/01-smr.R
 \name{get_smr}
 \alias{get_smr}
-\title{The Standardized Mortality Ratio (SMR) is the ratio of observed to the
-expected number of deaths in the study population under the assumption that
-the mortality rates for the study population are the same as those for the
-general population. This fumction estimates SMR and various confidence
-intervals and tests for statistical significance.}
+\title{Standardised Mortality Ratio (SMR)}
 \usage{
-get_smr(a, b, ci = 0.05)
+get_smr(a, b, z = 0.05)
 }
 \arguments{
 \item{a}{The observed number of deaths}

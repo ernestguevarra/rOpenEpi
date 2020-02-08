@@ -1,5 +1,7 @@
 ################################################################################
 #
+#' Standardised Mortality Ratio (SMR)
+#'
 #' The Standardized Mortality Ratio (SMR) is the ratio of observed to the
 #' expected number of deaths in the study population under the assumption that
 #' the mortality rates for the study population are the same as those for the
@@ -23,6 +25,6 @@
 #
 ################################################################################
 
-get_smr <- function(a, b, ci = 0.05) {
+get_smr <- function(a, b, z = 0.05) {
   est <- a / b
 }
