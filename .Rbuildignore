@@ -4,3 +4,5 @@
 ^data-raw$
 ^README\.Rmd$
 ^docs$
+^\.travis\.yml$
+^appveyor\.yml$
